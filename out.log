@@ -1,0 +1,35 @@
+2019-12-24 20:35:59 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2019-12-24 20:35:59 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2019-12-24 20:35:59 INFO  PluginTasksProjectComponent.setAutoscrolls(366) - Autoscrolls successfully set
+2019-12-24 20:35:59 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2019-12-24 20:36:00 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2019-12-24 20:36:03 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2019-12-24 20:36:03 INFO  ApacheHttpClient.testConnection(206) - result = true
+2019-12-24 20:36:05 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(570) - The session is not set in the property file.
+2019-12-24 20:36:06 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2019-12-24 20:36:06 INFO  ApacheHttpClient.login(236) - Waiting for server response.
+2019-12-24 20:36:06 INFO  ApacheHttpClient.login(240) - responseCode = 200
+2019-12-24 20:36:06 INFO  ApacheHttpClient.login(263) - JSESSIONID OK
+2019-12-24 20:36:06 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2019-12-24 20:36:06 INFO  ApacheHttpClient.refreshUserInfo(297) - User information received.
+2019-12-24 20:36:07 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2019-12-24 20:36:07 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2019-12-24 20:46:02 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
+
+2019-12-24 20:46:35 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
+2019-12-24 20:46:35 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.35 ----------
+
+2019-12-24 20:46:35 INFO  PluginTasksProjectComponent.setAutoscrolls(366) - Autoscrolls successfully set
+2019-12-24 20:46:35 INFO  ApacheHttpClient.createAsyncHttpClient(133) - 1 proxies selected. Type: DIRECT
+2019-12-24 20:46:35 INFO  ApacheHttpClient.<init>(91) - ApacheHttpClient was successfully instantiated.
+2019-12-24 20:46:38 INFO  ApacheHttpClient.testConnection(191) - responseCode = 200
+2019-12-24 20:46:38 INFO  ApacheHttpClient.testConnection(206) - result = true
+2019-12-24 20:46:42 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(583) - Waiting for server response.
+2019-12-24 20:46:42 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(583) - Waiting for server response.
+2019-12-24 20:46:43 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2019-12-24 20:46:43 INFO  ApacheHttpClient.refreshUserInfo(297) - User information received.
+2019-12-24 20:46:43 INFO  ApacheHttpClient.startGA(35) - GAService started.
+2019-12-24 20:46:43 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2019-12-24 20:50:50 INFO  ApacheHttpClient.getWebResourceAsStream(483) - responseCode = 200
+2019-12-24 20:50:51 INFO  ApacheHttpClient.getFilteredTasks(322) - responseCode = 200
